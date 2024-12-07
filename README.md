@@ -1,4 +1,9 @@
-- 👋 Hi, I’m Austin Thapa
-- 👀 I’m interested in machine learning, deep learning, & reinforcement learning
-- 🌱 I’m currently learning deep learning.
--  Nothing much here, just on the early learning phase. 
+- Hi, I’m Anil Thapa
+- I’m interested in machine learning, deep learning, & reinforcement learning
+- I’m currently learning reinforcement learning
+- Here are a couple of projects that I would love to show:
+-   Convolutional CNN - A deep convolutional Neural Network
+-   RNN for Time Series - For predicting time series
+-   Apache Spark - For Streaming
+-   Reinforcement Learning - training an Atari Model
+- Nothing much here, just on the early learning phase. 
