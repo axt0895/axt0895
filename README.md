@@ -1,5 +1,5 @@
 - Hi, I’m Anil Thapa
-- I’m interested in machine learning, deep learning, & reinforcement learning
+- I want to be a Machine Learning Engineer.
 - I’m currently learning reinforcement learning
 - Here are a couple of projects that I would love to show:
   -   Convolutional CNN - A deep convolutional Neural Network
