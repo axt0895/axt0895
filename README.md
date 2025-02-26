@@ -10,16 +10,8 @@ I am an aspiring **Machine Learning Engineer**, passionate about applying **AI**
 - **Deep Learning**: Specializing in **Convolutional Neural Networks (CNNs)** for computer vision and **Recurrent Neural Networks (RNNs)** for time series and sequential data.
 - **Big Data Processing**: Leveraging tools like **Apache Spark** for scalable and real-time data stream processing.
 
----
 
-## **Featured Projects**
-Here are a few highlights of my work:
-- **[Deep Convolutional Neural Networks](#)**: Advanced architectures for image classification and object detection.
-- **[RNN for Time Series Forecasting](#)**: Predicting trends and insights using Recurrent Neural Networks.
-- **[Apache Spark Streaming](#)**: Real-time data processing pipelines for high-performance applications.
-- **[Reinforcement Learning Models](#)**: Training AI agents to excel in game environments like Atari using cutting-edge RL techniques.
 
----
 
 ## **Let’s Connect**
 - **Email**: anilthapa1.at23@gmail.com
